@@ -1,0 +1,6 @@
+framework module Pods_SplitZip_Swift {
+  umbrella header "Pods-SplitZip_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
